@@ -1,6 +1,9 @@
 # EEW_Discord_BOT
 地震速報(地牛Wake Up!)連動Discord教學
 
+## 開發環境
+Python 3.8.10 (請先安裝完畢)
+
 ## Discord Bot建立
 * 1. 前往[Discord 開發者介面](https://discord.com/developers/applications)
      ![https://github.com/AUSTIN2526/EEW_Discord_BOT/blob/main/image/%E5%9C%96%E7%89%871.png](https://github.com/AUSTIN2526/EEW_Discord_BOT/blob/main/image/%E5%9C%96%E7%89%871.png)
